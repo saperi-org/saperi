@@ -32,9 +32,9 @@ Il progetto è stato realizzato da 3 partner, 2 organismi di ricerca e 1 end use
 
 - [Simularia](https://www.simularia.it) (P)
 - [Aethia](https://www.aethia.it) (P)
-- [SmartBrain](https://www.smartbrain.it) (P)
-- Dipartimento di ... dell'Università di Torino (OdR)
-- Dipartimento di ... dell'Università del Piemonte Orientale (OdR)
+- [SmartBrain](https://www.smartbraingroup.com) (P)
+- Dipartimento di Informatica dell'Università di Torino (OdR)
+- Dipartimento di Scienze e Innovazione Tecnologica dell'Università del Piemonte Orientale (OdR)
 - [ARPA Piemonte](https://www.arpapiemonte.it) (EU)
 
 <p align='center'>
