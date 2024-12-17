@@ -35,7 +35,7 @@ Il progetto è stato realizzato da 3 partner, 2 organismi di ricerca e 1 end use
 - [SmartBrain](https://www.smartbraingroup.com) (P)
 - Dipartimento di Informatica dell'Università di Torino (OdR)
 - Dipartimento di Scienze e Innovazione Tecnologica dell'Università del Piemonte Orientale (OdR)
-- [ARPA Piemonte](https://www.arpapiemonte.it) (EU)
+- [ARPA Piemonte](https://www.arpa.piemonte.it) (EU)
 
 <p align='center'>
 <small>Progetto cofinanziato POR FESR 2014/2020 - Asse I - Azione I.1b.1.2 - Bando PRISM-E, Regione Piemonte.<small><br>
