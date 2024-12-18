@@ -30,8 +30,8 @@ Questo sito ha l'obiettivo di creare un ambiente per gli utilizzatori della piat
 
 Il progetto è stato realizzato da 3 partner, 2 organismi di ricerca e 1 end user:
 
-- [Simularia](https://www.simularia.it) (P)
 - [Aethia](https://www.aethia.it) (P)
+- [Simularia](https://www.simularia.it) (P)
 - [SmartBrain](https://www.smartbraingroup.com) (P)
 - Dipartimento di Informatica dell'Università di Torino (OdR)
 - Dipartimento di Scienze e Innovazione Tecnologica dell'Università del Piemonte Orientale (OdR)
