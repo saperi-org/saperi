@@ -22,7 +22,6 @@ Questo sito ha l'obiettivo di creare un ambiente per gli utilizzatori della piat
 
 - [Issues](https://github.com/saperi-org/saperi/issues): in questa sezione segnaliamo tutti i problemi e i bug software.
 - [Discussions](https://github.com/saperi-org/saperi/discussions): per condividere informazioni utili dall'esperienza di uso e discutere nuove funzionalità e migliorie del software.
-- Wiki: per condividere buone pratiche, fattori emissivi e potere calorifico per tipologie di incendio, etc.
 
 
 
