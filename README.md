@@ -12,7 +12,7 @@
 
 SAPERI - Simulazione Accelerata su Piattaforme Eterogenee di Rilasci Incidentali - è stato un progetto concluso a dicembre 2022 che ha realizzato un prototipo per la simulazione speditiva e user-friendly della simulazione della dispersione di inquinanti in atmosfera in situazioni emergenziali quali gli incidenti in impianti industriali.
 
-Il sistema SAPERI funziona con una interfaccia semplificata di tipo web accessibile tramite browser e utilizza un modello di dispersione lagrangiano tridimensionale accelerato su GPU, basato su [spray-web](https://sprayweb.isac.cnr.it), modello open source, libero di essere utilizzato per progetti di ricerca.
+Il sistema SAPERI funziona con una interfaccia semplificata di tipo web accessibile tramite browser e utilizza il modello di dispersione lagrangiano tridimensionale accelerato su GPU [spray-web-saperi](https://gitlab.com/enrico.ferrero/spray-web/-/tree/spray-web-saperi), basato su [spray-web](https://sprayweb.isac.cnr.it), modello open source, libero di essere utilizzato per progetti di ricerca.
 
 
 
